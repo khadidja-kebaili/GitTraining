@@ -2,3 +2,4 @@
 *.txt
 !example.txt
 !example.txt
+!requirements.txt
